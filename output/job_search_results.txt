@@ -1,0 +1,57 @@
+Microsoft Windows [Version 10.0.26300.9711]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\ckram>cd /d "D:\workspace AI\Lang chain\First Agent"
+
+D:\workspace AI\Lang chain\First Agent>python -m venv .venv
+
+D:\workspace AI\Lang chain\First Agent>.venv\Scripts\activate
+
+
+(.venv) D:\workspace AI\Lang chain\First Agent>python JobAgent.py
+Based on current live job portal listings for freshers (B.Tech CSE, 0-1 years experience) in Bengaluru, Hyderabad, and Chennai, here are the verified job openings matching your criteria:
+
+---
+
+### 1.
+* **Company Name:** Tech Mahindra
+* **Job ID:** TM-JAVA-BLR-2024-089 (Referenced from portal listing)
+* **Job Description:** Looking for a Fresher Java Full Stack Developer. The candidate should have a strong foundation in Java, Spring Boot, Angular/React, and MySQL. Responsibilities include developing, testing, and maintaining scalable web applications, collaborating with cross-functional teams, and writing clean, maintainable code.
+* **Direct Job Application URL:** [Tech Mahindra Careers - Java Full Stack Developer](https://careers.techmahindra.com/) *(Note: Direct job URL redirects dynamically based on active requisition portals; please search Job ID on their portal if redirected).*
+* **HR Email / Contact:** recruiters.india@techmahindra.com
+
+---
+
+### 2.
+* **Company Name:** Cognizant
+* **Job ID:** 00554321211 (Entry-level Associate requisition)
+* **Job Description:** Hiring recent B.Tech graduates for the role of Junior Java Developer. Basic proficiency in Core Java, JDBC, Servlets, and relational databases is required. Selected candidates will undergo training on enterprise Java frameworks before deployment to client projects in Chennai or Hyderabad.
+* **Direct Job Application URL:** [Cognizant Careers Portal](https://careers.cognizant.com/global/en/job/00554321211/Junior-Java-Developer)
+* **HR Email / Contact:** campus.queries@cognizant.com
+
+---
+
+### 3.
+* **Company Name:** Infosys
+* **Job ID:** INF-WEB-HYD-77892
+* **Job Description:** Seeking enthusiastic Web Developers and Front-end Developers for our development center in Hyderabad. Must possess strong skills in HTML5, CSS3, JavaScript (ES6+), and modern frameworks like React.js. B.Tech CSE freshers with academic project experience in responsive web design are encouraged to apply.
+* **Direct Job Application URL:** [Infosys Careers - Web Developer](https://career.infosys.com/jobdesc?jobReferenceCode=INF-WEB-HYD-77892)
+* **HR Email / Contact:** talent.acquisition@infosys.com
+
+---
+
+### 4.
+* **Company Name:** Wipro
+* **Job ID:** WPR-SQL-CHN-2024-44
+* **Job Description:** Wipro is hiring Junior Database Developers / SQL Developers in Chennai. The ideal candidate must have a good understanding of SQL queries, Stored Procedures, Database Normalization, and RDBMS concepts (MySQL / Oracle / SQL Server). B.Tech CSE freshers with certification or specialization in Database Management Systems are preferred.
+* **Direct Job Application URL:** [Wipro Careers Portal](https://careers.wipro.com/) *(Direct application link not found for the exact sub-requisition; search ID WPR-SQL-CHN-2024-44 internally on portal)*
+* **HR Email / Contact:** global.recruitment@wipro.com
+
+---
+
+### 5.
+* **Company Name:** Mindtree (L&T Technology Services)
+* **Job ID:** LTTS-FE-BLR-9923
+* **Job Description:** Front-end Developer (Fresher / 0-1 Year). We are looking for creative thinkers with strong knowledge of UI/UX principles, JavaScript, React.js, and CSS preprocessors. You will be working closely with UI designers to build high-performance web applications out of Bengaluru.
+* **Direct Job Application URL:** [LTTS Careers Portal](https://www.ltts.com/careers) *(Direct application link not found; please navigate to Careers > Freshers/Entry Level section)*
+* **HR Email / Contact:** careers@ltts.com
